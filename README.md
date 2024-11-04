@@ -2,7 +2,7 @@
 
 This repository is a Proof of Concept made to discover Deno. 
 
-The code is based off an other exercice where we needed to use Node.js to make an API.\ 
+The code is based off an other exercice where we needed to use Node.js to make an API.\
 Since Deno seems to be Node.js's successor I wanted to try to translate what we did with Node.js to Deno.
 
 ## Key differences between Node and Deno & what I've learned
