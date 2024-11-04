@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "start": "deno run --allow-net main.js"
+  },
+  "imports": {
+    "oak": "https://deno.land/x/oak/mod.ts",
+    "uuid": "https://deno.land/std@0.127.0/uuid/mod.ts"
+  }
+}
