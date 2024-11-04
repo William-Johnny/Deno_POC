@@ -26,5 +26,5 @@ Then simply run the script by typing the following in your terminal
 deno task start
 ```
 
-Once this is done the server should be up and runnig on http://localhost:3000 and you can send your requests. 
+Once this is done the server should be up and running on http://localhost:3000 and you can send your requests. 
 I suggest using Postman to do so.
