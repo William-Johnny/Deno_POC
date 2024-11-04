@@ -13,19 +13,18 @@ Since Deno seems to be Node.js's successor I wanted to try to translate what we 
 
 ## How does it work ? 
 
-Once you have cloned this repository you should [install deno if it's not already done]([https://link-url-here.org](https://docs.deno.com/runtime/getting_started/installation/))
+Once you have cloned this repository you should [install deno if it's not already done](https://docs.deno.com/runtime/getting_started/installation/)
 
 You can test if you have deno by typing the following in your terminal
 
 ```
 deno --version
-
 ```
 
 Then simply run the script by typing the following in your terminal
 ```
 deno task start
-
 ```
 
-Once this is done the server should be up and runnig on http://localhost:3000 and you can send your requests. I suggest using Postman to do so.
+Once this is done the server should be up and runnig on http://localhost:3000 and you can send your requests. 
+I suggest using Postman to do so.
